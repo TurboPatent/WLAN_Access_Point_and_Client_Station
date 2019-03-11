@@ -1,0 +1,270 @@
+{
+  "name": "WLAN_Access_Point_and_Client_Station",
+  "description": "simplified block diagram of a WLAN Access Point and simplified block diagram of a client station for neighbor awareness networks",
+  "owner": {
+    "login": "TurboPatent",
+    "type": "organization"
+  },
+  "license": "MIT",
+  "private": false,
+  "details": {
+    "counts": {
+      "termCount": 137,
+      "claimCount": 1,
+      "independentCount": 1,
+      "drawingCount": 2,
+      "glossaryCount": 0
+    },
+    "briefDescriptions": [
+      "<p>illustrates an <span data-role=\"tag\" data-value=\"edc0e669-3423-5fe9-0249-8f8dfe31e07d\" id=\"id227a7831-cdbc-efe5-6a0e-08c897c48e7a\" data-type=\"term\">example simplified block diagram</span> of a <span data-role=\"tag\" data-value=\"1660b5a8-570d-a5ea-1f37-a040ea3d0b57\" id=\"idd857433c-69f4-723f-e846-d5a50c80ed65\" data-type=\"term\">WLAN Access Point</span> (AP), according to some <span data-role=\"tag\" data-value=\"88cb3aa1-8200-bdd8-68f6-160ac199ea9e\" id=\"id73f00b1e-a067-a75d-6f22-eb6f9e1d4728\" data-type=\"term\">embodiments</span></p>",
+      "<p>illustrates an <span data-role=\"tag\" data-value=\"edc0e669-3423-5fe9-0249-8f8dfe31e07d\" id=\"id7af2af4b-7140-bd05-5c66-1ed79f1a5fef\" data-type=\"term\">example simplified block diagram</span> of a <span data-role=\"tag\" data-value=\"b02b8c7a-bd6f-6be4-b72e-dd1913f4daff\" id=\"id70c3c63a-5374-c6f3-4535-f5ef4667011a\" data-type=\"term\">client station</span>, according to some <span data-role=\"tag\" data-value=\"88cb3aa1-8200-bdd8-68f6-160ac199ea9e\" id=\"id713300f9-1a87-58d7-cbe7-0d16fd5fcc38\" data-type=\"term\">embodiments</span>.&nbsp;</p>"
+    ],
+    "parts": [
+      {
+        "name": "access point",
+        "number": 102
+      },
+      {
+        "name": "memory",
+        "number": 104
+      },
+      {
+        "name": "memory management unit (MMU)",
+        "number": 106
+      },
+      {
+        "name": "read only memory (ROM)",
+        "number": 108
+      },
+      {
+        "name": "processor(s)",
+        "number": 110
+      },
+      {
+        "name": "wireless communication circuitry",
+        "number": 112
+      },
+      {
+        "name": "communication chain",
+        "number": 114
+      },
+      {
+        "name": "",
+        "number": 116
+      },
+      {
+        "name": "network port",
+        "number": 118
+      },
+      {
+        "name": "memory",
+        "number": 202
+      },
+      {
+        "name": "memory management unit (MMU)",
+        "number": 204
+      },
+      {
+        "name": "read only memory (ROM)",
+        "number": 206
+      },
+      {
+        "name": "processor(s)",
+        "number": 208
+      },
+      {
+        "name": "display circuitry",
+        "number": 210
+      },
+      {
+        "name": "client station",
+        "number": 212
+      },
+      {
+        "name": "nand",
+        "number": 214
+      },
+      {
+        "name": "Universal Integrated Circuit Card(s)",
+        "number": 216
+      },
+      {
+        "name": "display",
+        "number": 218
+      },
+      {
+        "name": "SOC",
+        "number": 220
+      },
+      {
+        "name": "connector interface (i/f)",
+        "number": 222
+      },
+      {
+        "name": "short to medium range wireless communication circuitry",
+        "number": 224
+      },
+      {
+        "name": "cellular communication circuitry",
+        "number": 226
+      },
+      {
+        "name": "",
+        "number": 228
+      },
+      {
+        "name": "",
+        "number": 230
+      },
+      {
+        "name": "",
+        "number": 232
+      },
+      {
+        "name": "",
+        "number": 234
+      }
+    ],
+    "terms": [
+      "other, i.e.",
+      "memory management unit (MMU)",
+      "radio",
+      "read only memory (ROM)",
+      "Universal Integrated Circuit Card(s)",
+      "processor(s)",
+      "chip (SOC)",
+      "access",
+      "Wideband Code Division Multiple Access",
+      "other acts",
+      "addition",
+      "addresses",
+      "LTE Advanced",
+      "part or all",
+      "Wi-Fi Alliance",
+      "antenna",
+      "Gate Array",
+      "ASIC",
+      "case",
+      "CDMA",
+      "small cell",
+      "chains",
+      "communication chain",
+      "multiple transmit chains",
+      "integrated circuit",
+      "Application Specific Integrated Circuit",
+      "various other circuits",
+      "circuitry",
+      "communication circuitry",
+      "cellular communication circuitry",
+      "wireless communication circuitry",
+      "display circuitry",
+      "first circuitry",
+      "second circuitry",
+      "WLAN circuitry",
+      "communication",
+      "communications",
+      "other components",
+      "hardware and software components",
+      "conjunction",
+      "connectivity",
+      "couple",
+      "devices",
+      "client device",
+      "two Wi-Fi client devices",
+      "user equipment device",
+      "mobile device",
+      "other circuits or devices",
+      "similar peer devices",
+      "Wi-Fi devices",
+      "two Wi-Fi devices",
+      "wireless device",
+      "block diagram",
+      "exemplary block diagram",
+      "FIG. 2--Access Point Block Diagram",
+      "example simplified block diagram",
+      "3--Client Station Block Diagram",
+      "display",
+      "dock",
+      "elements",
+      "programmable hardware element",
+      "embodiments",
+      "Long-Term Evolution",
+      "example",
+      "merely one example",
+      "features",
+      "field",
+      "NAND flash",
+      "FPGA",
+      "functions",
+      "other instances",
+      "program instructions",
+      "connector interface (i/f)",
+      "internet",
+      "locations",
+      "peer-to-peer manner",
+      "memory medium",
+      "non-transitory computer-readable memory medium",
+      "memory",
+      "MIMO",
+      "mobile",
+      "Subscriber Identity Module",
+      "additional networks",
+      "enterprise network",
+      "home network",
+      "local network",
+      "wired network",
+      "WLAN network",
+      "neighbor awareness networking",
+      "multiple-input multiple output",
+      "peer",
+      "Wi-Fi Peer",
+      "plurality",
+      "access point",
+      "pseudo access point",
+      "WLAN Access Point",
+      "ethernet port",
+      "example port",
+      "network port",
+      "additional network port",
+      "portions",
+      "portion",
+      "graphics processing",
+      "processor",
+      "protocol",
+      "802.11 protocol",
+      "Peer Communication Protocol",
+      "networking protocols",
+      "various purposes",
+      "short to medium range wireless communication circuitry",
+      "short range",
+      "WLAN RAT",
+      "display signals",
+      "station",
+      "base station",
+      "client station",
+      "client stations",
+      "wireless station",
+      "wireless stations",
+      "multiple spatial streams",
+      "system",
+      "computer system",
+      "Global System",
+      "possible system",
+      "various different wireless communication technologies",
+      "various other wireless communication technologies",
+      "Bluetooth.TM",
+      "wireless transceiver",
+      "memory protection and page table translation",
+      "one type",
+      "second type",
+      "two types",
+      "various types",
+      "WCDMA",
+      "Wi-Fi or WLAN",
+      "other words",
+      "SOC"
+    ],
+    "glossary": []
+  },
+  "repository": "https://github.com/TurboPatent/WLAN_Access_Point_and_Client_Station"
+}
